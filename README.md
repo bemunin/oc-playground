@@ -1,2 +1,2 @@
 # oc-playground
-Various experiment on AI, Isaac Sim and Robotics
+Various experiment on AI, Nvidia Isaac Stack and Robotics
