@@ -1,5 +1,4 @@
 # ruff:noqa: E402
-import cv2
 import isaacsim  # noqa: F401
 from omni.isaac.kit import SimulationApp
 
@@ -35,7 +34,6 @@ def clear_world():
 
 
 if __name__ == "__main__":
-    print(cv2.__version__)
     init_world()
     running_sim(sim_app)
     clear_world()
