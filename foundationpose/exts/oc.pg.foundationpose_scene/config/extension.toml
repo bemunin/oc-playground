@@ -5,8 +5,8 @@ order = 0
 [package]
 version = "0.0.0"
 category = "Simulation"
-title = "OC foundationpose playground scene"
-description = "OC foundationpose playground scene"
+title = "Foundationpose Scene"
+description = "Omnicraft Foundationpose playground scene"
 authors = ["Titiwat Munintravong (Omnicraft)"]
 repository = ""
 keywords = []
