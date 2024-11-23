@@ -1,5 +1,4 @@
 # ruff:noqa: E402
-import logging
 import os
 
 import isaacsim  # noqa: F401
@@ -8,7 +7,6 @@ from omni.isaac.kit import SimulationApp
 CONFIG = {"renderer": "RayTracedLighting", "headless": False}
 sim_app = SimulationApp(CONFIG)
 
-import carb
 import omni
 from omni.isaac.core import World
 from omni.isaac.core.utils import extensions
